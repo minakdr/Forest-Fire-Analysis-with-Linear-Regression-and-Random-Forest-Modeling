@@ -17,3 +17,5 @@ Random Forest RMSE: 0.4254481
 
 
 
+![Rplot](https://github.com/user-attachments/assets/d7ff506e-755e-4226-8b96-7f86cda6ef68)
+![Rplot01](https://github.com/user-attachments/assets/b7daafa2-4061-49bb-b18e-a7f1f7ea52f0)
