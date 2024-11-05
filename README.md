@@ -2,6 +2,7 @@
 This project focuses on analyzing a forest fire dataset through exploratory data analysis, feature engineering, and predictive machine learning modeling using both linear regression and random forest algorithms. The dataset includes details about forest fires such as spatial coordinates, month, day, weather conditions, and the area burned
 
 **Key aspects of the project include:**
+
 **Data Preprocessing**: Removing duplicates, converting month and day into numerical values, and applying a log transformation to normalize the skewed burned area feature.
 
 **Visualization**: Using various plots to explore fire occurrences across different months and days, as well as examining the relationships between weather variables and the area burned.
